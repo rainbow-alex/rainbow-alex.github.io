@@ -12,8 +12,8 @@ body {
 	font-family: Lato, sans-serif;
 	font-size: 15px;
 	padding: 40px;
-	background: #222 url('./bg.jpg') center;
-	background-size: 200%;
+	background: #222 url('./bg.jpg') center no-repeat;
+	background-size: cover;
 }
 
 main {
